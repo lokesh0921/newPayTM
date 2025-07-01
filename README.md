@@ -47,7 +47,7 @@
 
 ## 📸 Sneak Peek
 
-### 🔐 Login Page
+### 🔐 Signup Page
 ![Login](./screenshots/signup.png)
 
 ### 🧭 Dashboard
