@@ -45,3 +45,16 @@
 
 ---
 
+## 📸 Sneak Peek
+
+### 🔐 Login Page
+![Login](./screenshots/login.png)
+
+### 🧭 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### 🧭 Search
+![Dashboard](./screenshots/dashboard2.png)
+
+### 💸 Send Money Flow
+![Send Money](./screenshots/send-money.png)
