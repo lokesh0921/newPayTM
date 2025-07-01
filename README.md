@@ -48,7 +48,7 @@
 ## 📸 Sneak Peek
 
 ### 🔐 Login Page
-![Login](./screenshots/login.png)
+![Login](./screenshots/signup.png)
 
 ### 🧭 Dashboard
 ![Dashboard](./screenshots/dashboard.png)
