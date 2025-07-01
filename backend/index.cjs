@@ -50,12 +50,11 @@ app.use("/api/v1", mainRouter);
 // Serve frontend in production
 if (process.env.NODE_ENV === "production") {
   const __dirnameResolved = path.resolve(); // Use a renamed var to avoid conflict
-  app.use(express.static(path.join(__dirnameResolved, "./frontend/dist")));
+
+  app.use(express.static(path.join(__dirname, "../frontend/dist")));
 
   app.get("*", (req, res) => {
-    res.sendFile(
-      path.join(__dirnameResolved, "./frontend", "dist", "index.html")
-    );
+    res.sendFile(path.join(__dirname, "../frontend/dist", "index.html"));
   });
 }
 
