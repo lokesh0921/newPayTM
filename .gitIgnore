@@ -1,6 +1,7 @@
 **/node_modules/# Ignore all node_modules
 
-
+# Ignore node_modules in all folders
+**/node_modules
 # Logs
 **/npm-debug.log*
 **/yarn-debug.log*
